@@ -5879,6 +5879,32 @@
     ]
   },
   {
+    "name": "Notifly",
+    "url": "https://notifly.io/docs/connecting-ai-assistants",
+    "description": "Manage workflows, subscribers, topics and channel integrations, read delivery activity, and trigger sends in a Notifly workspace; hosted with OAuth 2.1 sign-in, free plan of 10,000 events a month.",
+    "category": "communication-and-productivity",
+    "language": "Other",
+    "provider": "Devino Solutions",
+    "tags": [
+      "notifications",
+      "workflows",
+      "email",
+      "sms",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.notifly.io/mcp"
+    },
+    "pricing": "freemium",
+    "transport": [
+      "streamable-http"
+    ],
+    "auth": [
+      "oauth"
+    ]
+  },
+  {
     "name": "Serpier",
     "url": "https://serpier.com/mcp",
     "description": "Hosted SEO server: track rankings, search traffic and AI visibility, monitor published links, browse vetted publishers and place link-building orders; OAuth sign-in.",
